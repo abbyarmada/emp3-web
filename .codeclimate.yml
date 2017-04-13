@@ -2,13 +2,7 @@ engines:
   csslint:
     enabled: true
   duplication:
-    enabled: true
-    config:
-      languages:
-      - ruby
-      - javascript
-      - python
-      - php
+    enabled: false
   eslint:
     enabled: true
   fixme:
